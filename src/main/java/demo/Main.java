@@ -6,7 +6,7 @@ public class Main {
 
 		System.out.println("Starting Runnig maven proejct ");
 		System.out.println("Ending maven project ");
-		System.out.println("test" ");
+
 	}
 
 }
